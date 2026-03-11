@@ -1,11 +1,11 @@
 export const courses = [
-  "Basic Computer",
-  "Tally Prime with GST",
-  "DTP",
-  "Software & Hardware",
-  "CCC",
-  "BCC",
-  "CCC+",
-  "Java",
-  "Python"
-];
+"BASIC COMPUTER",
+"TALLY PRIME WITH GST",
+"DTP",
+"SOFTWARE & HARDWARE",
+"CCC",
+"BCC",
+"CCC+",
+"JAVA",
+"PYTHON"
+]
